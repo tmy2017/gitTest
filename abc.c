@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 azefazefazioejriazott
 azefaaizefjaozeiff
 azer
@@ -13,3 +14,9 @@ n()
 		}
 	}
 }
+=======
+azeifjaezf
+azefazf
+
+function
+>>>>>>> 8b3ffb74525828a40de04907796922d99f2795d1
