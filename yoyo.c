@@ -1,5 +1,6 @@
 chg here again zz20180622_1016 hihi so strange zz20180622_1001 my local change? 
-azef
+try make conflict! zz20180622_1019 azef
+
 ---
 <<<<<<< HEAD
 aiozefjoiazejf tmy1 top
