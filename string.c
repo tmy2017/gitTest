@@ -1,7 +1,6 @@
 #include <stdio.h>
 int m y_strlen(char * s)
 {
-  //hihi zz20180622_0954
 char * p = s;
 while (* p)
 ++p;
