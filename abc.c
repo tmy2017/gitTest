@@ -1,19 +1,6 @@
- HEAD
- zz20180805_0846 hihi
-zz20180710_0002 hihi zz20171125_1816
-----
-azefazef
-zz20171125_1756
-master remote
-azeifjaezf
-azefazf
-iajfiojaf
-function
-=======
-zz20180710_0001 zz20180709_2359
-
-
-f
+<<<<<<< HEAD
+azefazefazioejriazott
+azefaaizefjaozeiff
 azer
 n()
 {
@@ -27,4 +14,9 @@ n()
 		}
 	}
 }
->>>>>>> tmy1
+=======
+azeifjaezf
+azefazf
+
+function
+>>>>>>> 8b3ffb74525828a40de04907796922d99f2795d1
