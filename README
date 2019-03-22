@@ -1,8 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 alrighty, resolve on local -- but directly use "commit" or "merge"? zz20181017_2306
 <<<<<<< HEAD
 again, chg on local to emulate local dev, but remote hot fix is done zz20181017_2305
 =======
+=======
+chg again zz20181017_2311 on remote
+>>>>>>> c97f170... chg again zz20181017_2311 on remote
 =======
 chg again zz20181017_2311 on remote
 >>>>>>> c97f170... chg again zz20181017_2311 on remote
